@@ -1,0 +1,5 @@
+HTML Templates from W3
+    https://www.w3schools.com/w3css/w3css_templates.as
+
+To embed HTML from another file in same directory
+  <embed type="text/html" src="5050screen.html" width=100% height=100%>
